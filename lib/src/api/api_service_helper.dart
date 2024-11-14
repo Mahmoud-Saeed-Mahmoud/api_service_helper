@@ -1,0 +1,3 @@
+class ApiServiceHelper {
+  ApiServiceHelper._();
+}
